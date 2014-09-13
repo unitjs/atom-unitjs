@@ -1,8 +1,9 @@
 # Atom Unit.js
 
-This is a [Atom.io](http://atom.io) package which includes a bunch of handy _snippets_ for writing unit tests with [Unit.js](http://unitjs.com).
+This is an [Atom.io package](https://atom.io/packages/unitjs) which includes a bunch of handy _snippets_ for writing _unit tests_ with [Unit.js](http://unitjs.com).
 
-Snippets :
+
+## Snippets
 
   * describe
   * it
