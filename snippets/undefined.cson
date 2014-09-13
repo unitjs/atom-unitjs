@@ -1,0 +1,6 @@
+".source.js":
+  "undefined (Unit.js asserter)":
+    "prefix": "undefined"
+    "body": """
+    undefined($1)
+    """

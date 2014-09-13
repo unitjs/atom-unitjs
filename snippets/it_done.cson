@@ -1,0 +1,8 @@
+".source.js":
+  "it asynchronous (Unit.js BDD function)":
+    "prefix": "it_done"
+    "body": """
+    it('$1', function(done) {
+      $2
+    });
+    """

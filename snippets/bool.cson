@@ -1,0 +1,6 @@
+".source.js":
+  "bool (Unit.js asserter)":
+    "prefix": "bool"
+    "body": """
+    bool($1)
+    """

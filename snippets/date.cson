@@ -1,0 +1,6 @@
+".source.js":
+  "date (Unit.js asserter)":
+    "prefix": "date"
+    "body": """
+    date($1)
+    """

@@ -1,0 +1,6 @@
+".source.js":
+  "array (Unit.js asserter)":
+    "prefix": "array"
+    "body": """
+    array($1)
+    """

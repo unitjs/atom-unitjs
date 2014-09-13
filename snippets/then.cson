@@ -1,0 +1,8 @@
+".source.js":
+  "then (Unit.js helper)":
+    "prefix": "then"
+    "body": """
+    then(function() {
+      $1
+    })
+    """

@@ -1,0 +1,8 @@
+".source.js":
+  "case (Unit.js helper)":
+    "prefix": "case"
+    "body": """
+    case(function() {
+      $1
+    })
+    """

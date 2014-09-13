@@ -1,0 +1,6 @@
+".source.js":
+  "string (Unit.js asserter)":
+    "prefix": "string"
+    "body": """
+    string($1)
+    """

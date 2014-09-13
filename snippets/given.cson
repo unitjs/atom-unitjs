@@ -1,0 +1,8 @@
+".source.js":
+  "given (Unit.js helper)":
+    "prefix": "given"
+    "body": """
+    given(function() {
+      $1
+    })
+    """

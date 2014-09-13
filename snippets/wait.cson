@@ -1,0 +1,8 @@
+".source.js":
+  "wait (Unit.js helper)":
+    "prefix": "wait"
+    "body": """
+    wait($1, function() {
+      $2
+    })
+    """

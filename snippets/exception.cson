@@ -1,0 +1,9 @@
+".source.js":
+  "exception (Unit.js asserter)":
+    "prefix": "exception"
+    "body": """
+    exception(function() {
+      $1
+    })
+
+    """

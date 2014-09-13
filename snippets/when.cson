@@ -1,0 +1,8 @@
+".source.js":
+  "when (Unit.js helper)":
+    "prefix": "when"
+    "body": """
+    when(function() {
+      $1
+    })
+    """

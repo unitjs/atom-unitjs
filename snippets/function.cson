@@ -1,0 +1,6 @@
+".source.js":
+  "function (Unit.js asserter)":
+    "prefix": "function"
+    "body": """
+    function($1)
+    """

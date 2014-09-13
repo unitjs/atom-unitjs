@@ -1,0 +1,6 @@
+".source.js":
+  "regexp (Unit.js asserter)":
+    "prefix": "regexp"
+    "body": """
+    regexp($1)
+    """

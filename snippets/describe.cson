@@ -1,0 +1,8 @@
+".source.js":
+  "describe (Unit.js BDD function)":
+    "prefix": "describe"
+    "body": """
+    describe('$1', function() {
+      $2
+    });
+    """

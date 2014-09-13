@@ -1,0 +1,9 @@
+".source.js":
+  "value().throws (Unit.js assertion)":
+    "prefix": "value_throws"
+    "body": """
+    value(function(){
+      throw new Error('$1');
+    })
+    .throws()
+    """

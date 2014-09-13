@@ -1,0 +1,9 @@
+".source.js":
+  "trigger = error (Unit.js shortcut: create an Error trigger)":
+    "prefix": "trigger_error"
+    "body": """
+    var trigger = function(){
+      throw new Error('Whoops !');
+    });
+
+    """
