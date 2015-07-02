@@ -1,8 +1,7 @@
 {
   "name": "unitjs",
-  "main": "./lib/unitjs",
   "version": "0.2.0",
-  "description": "Snippets for Unit.js (unit testing framework for javascript / Node.js).",
+  "description": "Snippets for Unit.js (unit testing framework for javascript front-end and Node.js).",
   "keywords": [
     "test",
     "unit.js",
@@ -24,8 +23,5 @@
   },
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
-    "atom-helpers": ">= 1.0.0 < 2.0.0"
   }
 }
