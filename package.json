@@ -1,6 +1,6 @@
 {
   "name": "unitjs",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Snippets for Unit.js (unit testing framework for javascript front-end and Node.js).",
   "keywords": [
     "test",
